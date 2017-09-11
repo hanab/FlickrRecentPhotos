@@ -1,7 +1,5 @@
 # FlickrRecentPhotos
 
-## Demo
-
 ## Introduction
 
 An app which shows the recent pictures on flickr. It caches the images and displays them if there is no network connection. Almofire
